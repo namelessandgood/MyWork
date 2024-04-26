@@ -8,13 +8,13 @@ I make them use sql-server not use entity framework (ORM) and the server is save
 use laravel framework 11.5.0 as back-end api and react js 18 as front-end 
 
 # when clone the laravel projects need some steps to use
-1- use command in laravel diractory `composter install` to install all packets is need to run 
-2- copy the `.envexample` and make `.env` file and past them 
-3- go to terminal in linux or command proment in window and run the code in diractory files projects `php artisan  key:generate` to make them
-4- after all is done go run app sections
+- use command in laravel diractory `composter install` to install all packets is need to run
+- copy the `.envexample` and make `.env` file and past them
+- go to terminal in linux or command proment in window and run the code in diractory files projects `php artisan  key:generate` to make them
+- ter all is done go run app sections
 
 # before run the react app need follow the command
-1- `npm i` to install all package is need to run the react app
+- `npm i` to install all package is need to run the react app
 
 # run apps
 1- run laravel app 
