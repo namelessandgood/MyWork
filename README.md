@@ -1,9 +1,9 @@
 # My Work 
 ## Student Api 
 use asp.net core 7 is framework in .net echo system use c# as program language
-but can't run the app why ?
-I make them use sql-server not use entity framework (ORM) and the server is save the code is shutdown 
-
+I make them use sql-server not use entity framework (ORM)
+use the file call `student database from scritch.sql` and run them in sql-server
+When make the sql-server use T-Sql in make all functions.
 ## car parking 
 use laravel framework 11.5.0 as back-end api and react js 18 as front-end 
 
